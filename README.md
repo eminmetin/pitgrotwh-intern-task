@@ -1,1 +1,0 @@
-# pitgrotwh-intern-task
