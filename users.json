@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "slug": "john-doe",
+    "name": "John Doe",
+    "title": "Software Engineer",
+    "location": "San Francisco, CA",
+    "bio": "Experienced Software Engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.",
+    "profilePicture": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "likes": []
+  },
+  {
+    "id": "2",
+    "slug": "jane-smith",
+    "name": "Jane Smith",
+    "title": "Product Manager",
+    "location": "New York, NY",
+    "bio": "Dedicated Product Manager with over 5 years of experience in the tech industry, specializing in project coordination and team leadership.",
+    "profilePicture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "likes": []
+  },
+  {
+    "id": "3",
+    "slug": "mike-jones",
+    "name": "Mike Jones",
+    "title": "UI/UX Designer",
+    "location": "Austin, TX",
+    "bio": "Creative UI/UX Designer with a strong background in designing interfaces that improve user experience and user interaction.",
+    "profilePicture": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "likes": []
+  }
+]
