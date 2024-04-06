@@ -8,8 +8,7 @@ export default async function Home() {
   console.log(session?.user);
   return (
     <main className='flex w-full h-full flex-col items-center justify-center p-24'>
-      <h2>PitGrowth Intern Task -A nasayfa</h2>
-      <UserCard user={session} pagetype='' />
+      <h2>PitGrowth Intern Task -Anasayfa</h2>
     </main>
   );
 }
