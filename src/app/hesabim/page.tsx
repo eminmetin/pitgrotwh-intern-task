@@ -1,4 +1,3 @@
-'use client';
 import { UserProfile } from '@/types/type';
 import { useState } from 'react';
 
